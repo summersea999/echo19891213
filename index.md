@@ -13,11 +13,11 @@ Syntax highlighted code block
 
 # Echo's very first github page
 ## *尹佳宁个人简历*
-### 2020·11·02
+###* 2020·11·02*
  ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
 
-![Echo's Photo]
+![Echo's Photo]()
 
 
 http://github.com - automatic!
