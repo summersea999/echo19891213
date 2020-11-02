@@ -18,11 +18,10 @@
 
 
 
+First Header | Second Header | jhijiji |Jijo
+------------ | ------------- |---------| -----
+Content from cell 1 | Content from cell 2 | jijo
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
 
 
 
