@@ -3,15 +3,27 @@
 ###### I don't quite know what yo say, but since this is my website so I guess I could write anything I like in here. So I'm gonna introduce myself and some of my favorite things!
 
 ### **关于我**
-#### 1.国籍
+#### 1.姓名
+`<尹佳宁/Echo>`
+#### 2.国籍
 `<中国>`
-#### 2. 兴趣爱好
-`<>`
+#### 3. 兴趣爱好
+~~是一个很宅很宅的人~~ 
+喜欢`<读小说>``<看美剧>``<追番>`大多数运动都不爱，但`<喜欢滑雪>`平时懒得动弹，但`<喜欢旅行>`。~~矛盾体本体~~。
+脑洞大，偶尔会突发奇想写点东西。
+#### 4.教育经历
+2008~2014| 2014~2017| 2017~2020|2020~2024
+------------ | -------------|------|-------
+*北京市朝阳区芳草地国际学校远洋小学* | *北京市陈经纶中学*|*北京市陈经纶中学*|*南京理工大学*
+#### 5.所学专业
+`<工业设计>`
+
+
 
 1.MY FAVORITE AUTHOR
 `<Oscar Wilde>`
 
-
+~~this~~
 
 
 
