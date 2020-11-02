@@ -1,27 +1,18 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Echo19891213/echo19891213/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-
-Syntax highlighted code block
-
 # Echo's very first github page
-<p>## *尹佳宁个人简历*</p>
-###* 2020·11·02*
+#### Hello，nice to meet you and welcome to my personal website.
+###### I don't quite know what yo say, but since this is my website so I guess I could write anything I like in here. So I'm gonna introduce myself and some of my favorite things!
+
+### **ABOUT ME**
+
+
+1.MY FAVORITE AUTHOR
+`<Oscar Wilde>`
 
 
 
-![Echo's Photo]()
 
 
-http://github.com - automatic!
-[GitHub](http://github.com)
+
 - Bulleted
 - List
 
