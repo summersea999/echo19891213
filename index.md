@@ -2,8 +2,11 @@
 #### Hello，nice to meet you and welcome to my personal website.
 ###### I don't quite know what yo say, but since this is my website so I guess I could write anything I like in here. So I'm gonna introduce myself and some of my favorite things!
 
-### **ABOUT ME**
-
+### **关于我**
+#### 1.国籍
+`<中国>`
+#### 2. 兴趣爱好
+`<>`
 
 1.MY FAVORITE AUTHOR
 `<Oscar Wilde>`
