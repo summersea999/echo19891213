@@ -11,10 +11,17 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 Syntax highlighted code block
 
-# 个人简历
-                         ## 尹佳宁
-                                            ### 2020·11·02
+# Echo's very first github page
+## *尹佳宁个人简历*
+### 2020·11·02
+ ![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 
+![Echo's Photo]
+
+
+http://github.com - automatic!
+[GitHub](http://github.com)
 - Bulleted
 - List
 
