@@ -4,7 +4,8 @@
 
 ### **关于我**
 #### 悄悄放一张照片……
-![Echo's photo](https://github.com/Echo19891213/echo19891213/blob/gh-pages/Echo's%20photo.jpg)
+
+！[Echo's photo]（https://github.com/Echo19891213/echo19891213/blob/gh-pages/Echo's%20photo.jpg）
 #### 1.姓名
 `<尹佳宁/Echo>`
 #### 2.国籍
