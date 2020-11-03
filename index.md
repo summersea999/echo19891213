@@ -41,6 +41,7 @@ https://www.lofter.com/blog/echo024167
 ###### orz那可真是太多了。鉴于本人是杂食动物，什么书都读，所以爬墙速度也很快。
 ~~就来谈谈最近最喜欢的作家吧~~
 * 2.`<Oscar Wilde>`
+# 在这里放一张照片
   *  *《夜莺与玫瑰》是永远的神！*
 - the young king
 > the burden of this world is too great for one man to bear, and the world's sorrow too heavy for one heart to suffer.
@@ -55,7 +56,7 @@ https://www.lofter.com/blog/echo024167
 ###### 个人来讲的话喜欢的剧或者电影，回家会再把它的原著也看一遍。~~（如果它有原著的话）~~比如饥饿游戏和哈利波特……
 ### 3.我喜欢的歌手
 #  *TAYLOR SWIFT* 
-
+# 在这里放一张照片
 > Love you to the moon and to Saturn, passed down like folk songs, the love lasts so long……
 1. Taylor Swift
 1. Fearless
@@ -67,9 +68,10 @@ https://www.lofter.com/blog/echo024167
 1. Floklore
 ##### 最初喜欢她是因为1989专辑中的Blank Space,那时候是2015年，初二组织活动要搭档唱歌，我和汪汪选择了这首歌，当时就被这个节奏吸引了，进而疯狂听她的其他歌曲，惊喜地发现都很合我的口味，当即决定“粉了，粉了”。更重要的是，她好漂亮啊！！~~所以这是一个始于才华，忠于颜值的故事。~~
 ###### 开个玩笑，其实我并不是一个颜狗（超小声）
-##### 我也很欣赏她的性格，她不安于现状，敢于打破常规，撕掉世人所给予的标签的勇气。
+##### 我也很欣赏她的性格，她的勇气，她不安于现状，敢于打破常规，撕掉世人所给予的标签的勇气。
 ## 她是一个`<女权主义者>`
 ## 她支持`<LGBT平权>`
+## She is a *silence breaker*.
 
 
 
