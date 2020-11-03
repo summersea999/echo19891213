@@ -3,6 +3,8 @@
 ###### I don't quite know what yo say, but since this is my website so I guess I could write anything I like in here. So I'm gonna introduce myself and some of my favorite things!
 
 ### **关于我**
+#### 悄悄放一张照片……
+![Echo's photo](https://github.com/Echo19891213/echo19891213/blob/gh-pages/Echo's%20photo.jpg)
 #### 1.姓名
 `<尹佳宁/Echo>`
 #### 2.国籍
@@ -20,6 +22,7 @@
 这是一个我写的
 小说？~~（啊喂，这鬼东西能被称之为小说吗？whatever, call it what you want...)~~
 https://www.lofter.com/blog/echo024167
+
 
 
 
