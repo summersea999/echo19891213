@@ -53,8 +53,9 @@ https://www.lofter.com/blog/echo024167
 #### 2.我喜欢的剧&番&电影
 ##### Harry Potter七刷死忠粉,Friends三刷，The Big Bang Theory二刷，夏目友人帐二刷，饥饿游戏二刷……啊我是真的很爱很爱这些宝贝们！！
 ###### 个人来讲的话喜欢的剧或者电影，回家会再把它的原著也看一遍。~~（如果它有原著的话）~~比如饥饿游戏和哈利波特……
-#### 3.我喜欢的明星
+#### 3.我喜欢的歌手
 #  *TAYLOR SWIFT* 
+> Love you to the moon and to Saturn, passed down like folk songs, the love lasts so long……
 1. Taylor Swift
 1. Fearless
 1. Speak Now 
@@ -63,6 +64,10 @@ https://www.lofter.com/blog/echo024167
 1. Reputation
 1. Lover
 1. Floklore
+##### 最初喜欢她是因为1989专辑中的Blank Space,那时候是2015年，初二组织活动要搭档唱歌，我和汪汪选择了这首歌，当时就被这个节奏吸引了，进而疯狂听她的其他歌曲，惊喜地发现都很合我的口味，当即决定“粉了，粉了”。更重要的是，她好漂亮啊！！~~所以这是一个始于才华，忠于颜值的故事。~~
+###### 开个玩笑，其实我并不是一个颜狗（超小声）
+##### 我也很欣赏她的性格，她不安于现状，敢于打破常规，撕掉世人所给予的标签的勇气。
+# 她是一个`<女权主义者>`
 
 
 
