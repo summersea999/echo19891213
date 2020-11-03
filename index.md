@@ -5,7 +5,7 @@
 ### **关于我**
 #### 悄悄放一张照片……
 
-！[Echo's photo]（https://github.com/Echo19891213/echo19891213/blob/gh-pages/Echo's%20photo.jpg）
+![Echo's photo](https://github.com/Echo19891213/echo19891213/blob/gh-pages/Echo's%20photo.jpg)
 #### 1.姓名
 `<尹佳宁/Echo>`
 #### 2.国籍
@@ -54,8 +54,16 @@ https://www.lofter.com/blog/echo024167
 ##### Harry Potter七刷死忠粉,Friends三刷，The Big Bang Theory二刷，夏目友人帐二刷，饥饿游戏二刷……啊我是真的很爱很爱这些宝贝们！！
 ###### 个人来讲的话喜欢的剧或者电影，回家会再把它的原著也看一遍。~~（如果它有原著的话）~~比如饥饿游戏和哈利波特……
 #### 3.我喜欢的明星
-# ** *TAYLOR SWIFT* **
-######
+#  *TAYLOR SWIFT* 
+1. Taylor Swift
+1. Fearless
+1. Speak Now 
+1. RED
+1. **1989**(~~爱的开始~~)
+1. Reputation
+1. Lover
+1. Floklore
+
 
 
 
