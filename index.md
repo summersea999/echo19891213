@@ -38,16 +38,19 @@ https://www.lofter.com/blog/echo024167
 ### **关于我所喜欢的**
 #### 1.喜欢的作家
 ###### orz那可真是太多了。鉴于本人是杂食动物，什么书都读，所以爬墙速度也很快。
-~~就来谈谈最近喜欢的作家（们）吧~~
-1. `<Oscar Wilde>`
-   1. *《夜莺与玫瑰》是永远的神！*
-> the burden of this world is too great for one man to bear,and the world's sorrow too heavy for one heart to suffer.
-##### 　也许这世上优秀的童话作家很多，也许王尔德并不比安徒生与格林兄弟更有名。但是在我看来，王尔德的文字是最有深度，最有魅力的。而在不同的年龄段阅读，也能体悟出不同的道理。他写下的文字不应该仅仅被称为`<童话>`，更应该称之为`<艺术>`。《快乐王子》中，穷困潦倒的人民，被丢弃在垃圾桶的善良的燕子，心碎的快乐王子，永远去不到的埃及……王尔德将这一切的一切冠以童话之名，将社会的黑暗披上美好的外壳，深入思考，其内核始终有关爱人，有关批判。而这正是其他童话作家所不曾达到的深度。
+~~就来谈谈最近最喜欢的作家吧~~
+* 2.`<Oscar Wilde>`
+  *  *《夜莺与玫瑰》是永远的神！*
+- the young king
+> the burden of this world is too great for one man to bear, and the world's sorrow too heavy for one heart to suffer.
+- the nightingale and the rose
+> All that I ask of you in return is that you will be a true lover, for Love is wiser than Philosophy, though he is wise, and mightier than Power, though he is mighty.
+- 经典**毒舌**语录
+> To live is the rarest thing in the world. Most people exist, that is all.
 
-
-
-
-
+##### 　也许这世上优秀的童话作家很多，也许王尔德并不比安徒生与格林兄弟更有名。但是在我看来，王尔德的文字是最有深度，最有魅力的。而在不同的年龄段阅读，也能体悟出不同的道理。他写下的文字不应该仅仅被称为`<童话>`，更应该称之为`<艺术>`。《快乐王子》中，穷困潦倒的人民，被丢弃在垃圾桶的善良的燕子，心碎的快乐王子，永远去不到的埃及……王尔德将这一切的一切冠以童话之名，将社会的黑暗披上美好的外壳，深入思考，其内核始终有关怜悯，有关现实，有关讽刺与批判。王尔德的童话绝对不是像其他童话那样，以“公主与王子幸福的生活在一起”作为结局，而这使其文字升华，到达其他童话不可企及的高度。
+#### 2.我喜欢的剧&番&电影
+##### Harry Potter7刷死忠粉,Friends三刷，The Big Bang Theory二刷，夏目友人帐二刷。啊我是真的很爱很爱这些宝贝们！！
 - Bulleted
 - List
 
