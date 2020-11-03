@@ -75,7 +75,13 @@ https://www.lofter.com/blog/echo024167
 
 
 
-
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
 
 
 
