@@ -42,12 +42,12 @@ https://www.lofter.com/blog/echo024167
 ~~就来谈谈最近最喜欢的作家吧~~
 * 2.`<Oscar Wilde>`
   - in my point of view……
-#### 王尔德
+#### ***王尔德***
 - [x] 批判家
 - [x] 艺术家
 - [ ] 童话作家
-### 但是，在这里请容我呐喊！
-  *  *《夜莺与玫瑰》是永远的神！（破音）*
+1. 但是，在这里请容我呐喊！
+   -  ***《夜莺与玫瑰》是永远的神！（破音）***
 - the young king
 > the burden of this world is too great for one man to bear, and the world's sorrow too heavy for one heart to suffer.
 - the nightingale and the rose
@@ -60,7 +60,7 @@ https://www.lofter.com/blog/echo024167
 ##### Harry Potter七刷死忠粉,Friends三刷，The Big Bang Theory二刷，夏目友人帐二刷，饥饿游戏二刷……啊我是真的很爱很爱这些宝贝们！！
 ###### 个人来讲的话喜欢的剧或者电影，回家会再把它的原著也看一遍。~~（如果它有原著的话）~~比如饥饿游戏和哈利波特……
 ### 3.我喜欢的歌手
-#  *TAYLOR SWIFT* 
+#  ***TAYLOR SWIFT*** 
 # 在这里放一张照片
 - Seven
 > Love you to the moon and to Saturn, passed down like folk songs, the love lasts so long……
