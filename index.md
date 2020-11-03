@@ -46,11 +46,11 @@ https://www.lofter.com/blog/echo024167
 - [x] 批判家
 - [x] 艺术家
 - [ ] 童话作家
-1. 但是，在这里请容我呐喊！
+ ### 但是，在这里请容我呐喊！
    -  ***《夜莺与玫瑰》是永远的神！（破音）***
-- the young king
-> the burden of this world is too great for one man to bear, and the world's sorrow too heavy for one heart to suffer.
-- the nightingale and the rose
+- The young king
+> The burden of this world is too great for one man to bear, and the world's sorrow too heavy for one heart to suffer.
+- The nightingale and the rose
 > All that I ask of you in return is that you will be a true lover, for Love is wiser than Philosophy, though he is wise, and mightier than Power, though he is mighty.
 - 经典**毒舌**语录
 > To live is the rarest thing in the world. Most people exist, that is all.
