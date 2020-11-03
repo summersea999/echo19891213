@@ -41,7 +41,7 @@ https://www.lofter.com/blog/echo024167
 ###### orz那可真是太多了。鉴于本人是杂食动物，什么书都读，所以爬墙速度也很快。
 ~~就来谈谈最近最喜欢的作家吧~~
 * 2.`<Oscar Wilde>`
-- in my point of view……
+  - in my point of view……
 #### 王尔德
 - [x] 批判家
 - [x] 艺术家
