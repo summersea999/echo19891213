@@ -46,8 +46,8 @@ https://www.lofter.com/blog/echo024167
 - [x] 批判家
 - [x] 艺术家
 - [ ] 童话作家
-
-  *  *《夜莺与玫瑰》是永远的神！*
+## 但是，在这里请容我呐喊！
+  *  *《夜莺与玫瑰》是永远的神！（破音）*
 - the young king
 > the burden of this world is too great for one man to bear, and the world's sorrow too heavy for one heart to suffer.
 - the nightingale and the rose
